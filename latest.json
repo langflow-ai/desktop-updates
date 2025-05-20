@@ -7,10 +7,6 @@
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0pWTXMwaFA5UTc5ajBjeS9LNnl5RUpiUFYvOEV0YjBrd2FaZzdjTDZiNkZqRkw3cEZ0WCtCVzFTRHl3VGJZSVNSd3Rpc25UY1h5VUl1SUdGSUk4MXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3NzY0MzI0CWZpbGU6TGFuZ2Zsb3cuYXBwLnRhci5nego0VCt0d1Q1MjNlWUwwRkhCQi9IZWI0dXU1NXBMRE1FdVVDWVl4NVlwOE5zTEUxVktlRUUvNHlNS1ZCUnRtTG96WFd2T3VLUzVoK0NBZ3lnQ3JYakhEdz09Cg==",
       "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.4.3/macOS/Langflow.app.tar.gz"
     },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0UwR01qcm8vM3RwQlBQc1lyWDE3MkhFU3E5UmI3Nm82VUJXdzJ4K2ExZ0FsN253Rm56Uk54dFBtZHl0djM3bXdGd3ZTZEFaeGVDdGM0Q1h0UEFkcGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3Nzc2NjU1CWZpbGU6TGFuZ2Zsb3dfMS40LjNfYXJtNjRfZW4tVVMubXNpCm4vaDVPUGNzRnloWWdqQXZBOFI2cGVPSmVzalZMUVMrd2U3L2RHWEZhN1BodUU4M2ZqVFBSUkJwSEloS08rd1RRd1JRZ1JDemJqTzhTWXlyZzlrb0F3PT0K",
-      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.4.3/windows/Langflow_1.4.3_arm64_en-US.msi"
-    },
     "windows-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0kyNmNCMEtlNC9Na0dnTkpiU29vaVdyZEswYUF0NzlPVlFPcm8zbVp2WTNrZFJXalhzRjE0T3c1cGdBT3ZLNVJ3Y3VvZHFVUzZOR3RPTFRKYUhwZkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3Nzg0NDYwCWZpbGU6TGFuZ2Zsb3dfMS40LjNfYXJtNjRfZW4tVVMubXNpClAxQStZNGJMQUYwM29IcEs4QnhFT1pxMURqSjVXb0VFLzdEeDk3R3hkWGdlL2htK0N2bVViSEQ3UTJXWDBWUzNrUHRXcCtXMEl0bjE1aWN4UzNtQkRnPT0K",
       "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.4.3/windows/Langflow_1.4.3_arm64_en-US.msi"
