@@ -9,11 +9,11 @@
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR1A2NXJFUFpaNWpqOW56dloxcmZyT1pnbkJuU05nQjBsWkI5SEk4TEZ4Q3AvSnhSZlVhVmFFK0NyYWt3Zk0zbWFaUm9namo3dDMzMjBhT3JiZzFrR2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3NzY1OTYzCWZpbGU6TGFuZ2Zsb3dfMS40LjNfYXJtNjRfZW4tVVMubXNpCm1oVnNNYkluQ2dickFvMk04SXFiV0RXUDN6ZjNLTm9PWXRhN3h6MEhvalk5bXVaem5SQW5UZ1JSTEVaTmNDUk1CckE2K3FlbU5yeDJUdVVSU3lidkFBPT0K",
-      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.4.3/windows/Langflow_1.4.3_arm64_en-US.msi"
+      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.4.3/windows/Langflow_1.4.3_arm64_en-US.exe"
     },
     "windows-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0UwR01qcm8vM3RwQlBQc1lyWDE3MkhFU3E5UmI3Nm82VUJXdzJ4K2ExZ0FsN253Rm56Uk54dFBtZHl0djM3bXdGd3ZTZEFaeGVDdGM0Q1h0UEFkcGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3Nzc2NjU1CWZpbGU6TGFuZ2Zsb3dfMS40LjNfYXJtNjRfZW4tVVMubXNpCm4vaDVPUGNzRnloWWdqQXZBOFI2cGVPSmVzalZMUVMrd2U3L2RHWEZhN1BodUU4M2ZqVFBSUkJwSEloS08rd1RRd1JRZ1JDemJqTzhTWXlyZzlrb0F3PT0K",
-      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.4.3/windows/Langflow_1.4.3_arm64_en-US.msi"
+      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.4.3/windows/Langflow_1.4.3_arm64_en-US.exe"
     }
   }
 }
