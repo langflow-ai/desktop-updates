@@ -8,7 +8,7 @@
       "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.4.3/macOS/Langflow.app.tar.gz"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR1BTTFFDQ2ZsY3VkNkJpeVI1WEFWbFV1QmVVVkNWV2pZczgwREw5dE4vckxVODlYYkI1REFvajIyWGMvMmEvT0lwamxVNHh4cEtUUzhlMUluS1JhSUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3Nzg2OTEwCWZpbGU6TGFuZ2Zsb3dfMS40LjNfYXJtNjRfZW4tVVMubXNpClI0T2dldjFrZkE0R0N1dUhSeW1CTExOTUlkTzdvNlN1ajhzRlk4OG9VZUZoaGVGcUdLaTg0YXl2aXNaTTREajdYWXBDa1J1eS9TY3U1V0NJeUxBQkFRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0JkeDI0cW1Xa2pvNVFjV1c4azhLbzBXUGNGUGdxTWpjdEF4MVBRN05YdDF2NTRYUlpiRWFidGp6eEdrS3cwTTZpMGhNd3E5d0VmeEdwZG5hekNHNGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3Nzg4OTk3CWZpbGU6TGFuZ2Zsb3dfMS40LjNfYXJtNjRfZW4tVVMubXNpCkplUWRMWWFzOUMzbVVHWEE4bTdyL215RnM0TEpEd2Q5YjRQTmhnMlphYjVQQlJRN1c1bW1vcHp4b0FQYld5ZWE2UzNvcVkzRlgxL0tKbkh1cGljU0NBPT0K",
       "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.4.3/windows/Langflow_1.4.3_arm64_en-US.msi"
     }
   }
