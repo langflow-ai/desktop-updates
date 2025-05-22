@@ -4,7 +4,7 @@
   "pub_date": "2024-03-21T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0hCOEgrZXFnK2Y3MlovVUExK1ErcmZPbUNpOU8vMmJBUUY3MFkxeXlqTVljZG1uNE1VWlIrVTRndmFpYmdvQm4yY0dnSDFHVjNURTBrMG9rZ2JxTmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3OTQ0NjQ1CWZpbGU6TGFuZ2Zsb3cuYXBwLnRhci5negpyOHp1NWp2ZTJjdlppQW5SaG1CKzhHZklXbDI0dHkreEY2Vy94TjYzQ1RHWUNlMGdLWEQrR3JsTkhGMjIycDR2R1BvTFdDaG5IQndHTW9GdUlyL3VCUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0h4VlJKSkZsMVlkSnNQTmhtVTNYWnJ3VG1QN0pLcTNxUHpBK0pqUGVPR0tzSTRwQ2FUbHVIWXY1bmNBcGYrVUJ2b2FwalNLOEN4OStwL0J5TmEzRWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3OTUwNzgzCWZpbGU6TGFuZ2Zsb3cuYXBwLnRhci5negpFMnlGcWRCMExtWUR1cXBheUFzYVc0ODRTTU9QT0s4QmVXYVRlYlNDSW1MZEVHNC9zb2gxRmYveUdxVGFheDMyTjJ5TkxWcEw3TmdJT2lHTXpUZHlDUT09Cg==",
       "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.4.21/macOS/Langflow.app.tar.gz"
     },
     "windows-aarch64": {
