@@ -1,17 +1,17 @@
 {
   "versions": [
     {
+      "name": "1.4.21",
+      "description": "Patch release with frontend improvements, bug fixes, and versioning updates.\n\n🛠️ Improvements:\n- Window resizing updated to 85% screen width without auto-centering to prevent jumping between monitors.\n- Dark mode logic improved using useTheme hook for consistent body class behavior.\n- Version numbers updated across configuration files (package.json, lib.rs, tauri configs) to follow semantic versioning with patch identifiers.\n- New Makefile target `sync_frontend` added to streamline frontend sync for Langflow integration.\n\n🐛 Bug Fixes:\n- Prevented click event propagation in custom-langflow-counts.tsx to avoid unintended behavior.\n- Fixed `disabled` logic in custom-parameter.tsx to respect edge and tool mode conditions.\n- Corrected progress calculation in get-started-progress.tsx to display accurate completion percentages.",
+      "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.4.2-1",
+      "date": "2025/05/22",
+      "signature": "N/A"
+    },
+    {
       "name": "1.4.2",
       "description": "Main release version with tauri updater",
       "url": "N/A",
       "date": "2025/05/20",
-      "signature": "N/A"
-    },
-    {
-      "name": "1.4.2-1",
-      "description": "Patch release with frontend improvements, bug fixes, and versioning updates.\n\n🛠️ Improvements:\n- Window resizing updated to 85% screen width without auto-centering to prevent jumping between monitors.\n- Dark mode logic improved using useTheme hook for consistent body class behavior.\n- Version numbers updated across configuration files (package.json, lib.rs, tauri configs) to follow semantic versioning with patch identifiers.\n- New Makefile target `sync_frontend` added to streamline frontend sync for Langflow integration.\n\n🐛 Bug Fixes:\n- Prevented click event propagation in custom-langflow-counts.tsx to avoid unintended behavior.\n- Fixed `disabled` logic in custom-parameter.tsx to respect edge and tool mode conditions.\n- Corrected progress calculation in get-started-progress.tsx to display accurate completion percentages.",
-      "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.4.2-1",
-      "date": "2025/05/22",
       "signature": "N/A"
     }
   ]
