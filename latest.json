@@ -12,7 +12,7 @@
       "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/main/releases/v1.4.21/windows/Langflow_1.4.21_arm64_en-US.msi"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR01NendjdHpSUzhwWGorS0dDQXRDNndSa3hJTDJUUG82THorUWErb0lUVFY3V1M1bXF0bVYzOEFsWlVqTTlkWjgvM3FQblBnRk85RTI1RHVPai9BZ2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3OTQ1MzE1CWZpbGU6TGFuZ2Zsb3dfMS40LjItMV94NjRfZW4tVVMubXNpCkQzY21zS2xhY1g2c1YrQXFSZjhITFRPelZQWGVFNFhBTXo2NSszbEZSdnhhK2xvU1ZuSytEYTdINEx3dk16VlQ1VHJYVVc1N2NoY3RZYkNucTJta0JRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0RFbTNSaDdCT3F2S2tqMktDOUNRcU5yY0ZsckNvOW9ERWZocXM1elFIYktmN3VSbmM1TlBKMU9iUVgyaDhWSzFrSDlJdU1mdmVMbVV2YkQzd2hTSWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4MDAxOTUwCWZpbGU6TGFuZ2Zsb3dfMS40LjIxX3g2NF9lbi1VUy5tc2kKWXdmOVA3UjVBeXVuRDhtazdPZURwOFl2c1RaeDNXUytuT3Q4RVpmYnM3NXA1LzZGTklLOWVLOUhWTWdMZ2c5MjYxckRVbi9MSUtFbzl0UnU2czZyRGc9PQo=",
       "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/main/releases/v1.4.21/windows/Langflow_1.4.21_x64_en-US"
     }
   }
