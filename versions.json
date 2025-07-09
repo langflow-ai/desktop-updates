@@ -1,6 +1,13 @@
 {
   "versions": [
     {
+      "name": "1.5.0",
+      "description": "Major release with version bump to 1.5.0 and significant improvements.\n\n✨ Features:\n- Added new hooks and utilities for single and bulk file downloads.\n- Integrated @tauri-apps/plugin-dialog for native dialogs.\n- Introduced tray icon support with theme detection and manual update checks.\n- Added new custom components for flexible UI (CustomMcpServerTab, CustomFetchErrorComponent, CustomUpdateAvailableDialog).\n- Added support for local connection checks in Tauri Desktop scenarios.\n\n🔧 Improvements:\n- Refactored modules for better maintainability and readability.\n- Added dark mode support and improved styling.\n- Standardized proxy targets and constants to port 7860.\n- Improved Windows paths, environment setup, and file exports.\n\n🐛 Bug Fixes:\n- Fixed feature flags, environment checks, port conflicts, and redundant logs.\n- Resolved path handling for virtual environments.\n\n🧰 Chores:\n- Synced frontend/backend versions.\n- Updated documentation, logs, and release modal.\n- Cleaned up path management across platforms.",
+      "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.5.0",
+      "date": "2025/07/09",
+      "signature": "N/A"
+    },
+    {
       "name": "1.4.22",
       "description": "Patch release with frontend enhancements, new components, and improved system compatibility.\n\n🚀 Features:\n- Added support for user dependency installation during setup.\n- Introduced custom chat input and file input components for better UX and customization.\n- Integrated new file upload hooks with improved error handling and progress tracking.\n\n🧰 Chores:\n- Adjusted window size and centering behavior at startup for better multi-monitor experience.\n- Lowered macOS minimumSystemVersion to 13.0 for wider compatibility.\n- Synchronized versioning and metadata in Cargo.toml, manifest.json, and tauri.conf.json.\n\n💅 Frontend Improvements:\n- Refactored multiple components for better naming, semantics, and responsiveness.\n- Added neon glow animation to update indicators.\n- Improved layout responsiveness and UI consistency for mobile and desktop.\n\n📄 Misc:\n- Removed hardcoded versioning in `custom-get-app-latest-version.ts`.\n- Improved loading screen structure and updated unused imports.",
       "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.4.22",
