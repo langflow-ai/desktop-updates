@@ -1,15 +1,11 @@
 {
-  "version": "1.4.22",
+  "version": "1.5.0",
   "notes": "Update notes",
-  "pub_date": "2025-05-28T12:00:00Z",
+  "pub_date": "2025-07-09T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0t3RXlRMXM5ZURWM0hMRCtwWnRBNGlJZVdCcW9ibm9tek5GVkh1bXVLNEQwbGtFZC9JRmRtVzdjaFpTNUZUTkxJdWZnUnRRQ3NFZS9hODNjSmhWUkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NDQzNzYzCWZpbGU6TGFuZ2Zsb3cuYXBwLnRhci5negpvOGZVZUxCUldJaTMwc21kOG5zZkJXdjlQQmk2WlIzUDZZN2t0ZkoxcC81VERPWFdNZHVwQ0ROT1dCWVdjT3lCNHdZcjRUZmJIZStFVzF0cXJGN1NBZz09Cg==",
-      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.4.22/macOS/Langflow.app.tar.gz"
-    },
-    "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR050dis1M0ZBd1lKdndVcG1kTjZPU2pQUjZMRTd1ZHVnNUE2a0prK3ZzQkVFaUx3SlhqVmMrdG5qTmhJdWhwRWhCWE40Y1krT3RZbFZEZEFwbkt2UHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4MzczNjkwCWZpbGU6TGFuZ2Zsb3dfMS40LjIyX2FybTY0X2VuLVVTLm1zaQpZRGFXSzhtLzZIT1NyUnMyQ1dqZWN4RnFFeitmTURrQVBsTUs3RVppU0wrMGR3clRCaUZmSkpPYmYzbUJJU1VxTzl4eDBGOFloMlE1bXFFRjRWZkNCZz09Cg==",
-      "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/main/releases/v1.4.22/windows/Langflow_1.4.22_arm64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR004dDRUdER6Vk5HQlhFY0p0VDM2UmJiVTc0NEFEeXBhbzVsNlEzY1RZcnFrRUZGcG4xYXZIbXJFZ21SbWFiMjAzcmtNdzhId00wbFM4VGZvR2pMREFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyMDczODk5CWZpbGU6TGFuZ2Zsb3cuYXBwLnRhci5nego2ZGlYeElaVW9oaHp2a0U0bW9yc3QxQitsNkpUcThhakROWXNRL1Y0QmRtNURMYWNkOXU5Z3E5aHpCVFhUUCtoR2hRK0toVStPNUpMWXpReFFKbkxEQT09Cg==",
+      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.5.0/macOS/Langflow.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR1BVOE5qazkvUm5YVVh2QlNxWVFUSldGby9VL1JVS3p3N1JXY28rT2dtSndaU2dSdm43TUNMclBLaElRUkVtUE1iRkhYMm84K0lqU3VRQmVRdDlldUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NDQ0MjI4CWZpbGU6TGFuZ2Zsb3dfMS40LjIyX3g2NF9lbi1VUy5tc2kKblhXYVcwZS9mN3ViM05RRVluMWgvYkVKWkJ0cGNvWFkwOXZkdDRJRXVRaGxoS21FVWh4dEJlbUZ1ZE9kK2pzQ0wvVDc3OVNvWTE4SHJsZTE4OWUwQWc9PQo=",
