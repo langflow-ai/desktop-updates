@@ -1,19 +1,19 @@
 {
-  "version": "1.4.22",
+  "version": "1.5.0",
   "notes": "Update notes",
   "pub_date": "2025-07-09T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0ZRRGkyVHd1ZGpnMmZ3ODFlcEUrdVpvNExEUDV3K1l2NjZoVk9OVEtIVnNRTlBqYWpJNi9xQTdTUWtDZlViTUN6WUhIZm9TRW45dGFNa000eTR5a2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyMDc2NzgyCWZpbGU6TGFuZ2Zsb3cuYXBwLnRhci5negpVbVUrcXhKSlg4d3Q1QkkwZTRNd0QwQ1MvWFdBdi9QWHVuVnVDNE1OdGdtY0Q1MXBRWG1rS2lUSmtTaUxJQXVGSWdZUnVGVjIycWwzNXVqYkIvOW5BZz09Cg==",
-      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.5.0/macOS/Langflow.app.tar.gz---langflow-ai"
+      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.5.0/macOS/Langflow.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0VCSzQycWduR0RBZjhOaVNyMTJuc3VGeVN6R0dWLzhQT1JjMDF6MjNqOXE2OFp5MGVYejgrYnE3YnVQNXFpSHYyMGsvemxsSEsydHFuTkh2RzBDYVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyMDc2NTUyCWZpbGU6TGFuZ2Zsb3cuYXBwLnRhci5negpodHpOSXVaVmZoMVFFR2UvSEZzZTlnSFFnVGJRRFdaUkRtRDFIZnVRbXRzNy9hQ1o3d3BNSnQrWUd0TmhVZ2Z4RnR4cWMwNGMyU0pkR2N6UjI2VlNCUT09Cg==",
-      "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/main/releases/v1.5.0/macOS-x86_64/Langflow.app.tar.gz---langflow-ai"
+      "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/main/releases/v1.5.0/macOS-x86_64/Langflow.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0ZWZk84OWhDZkJ6ck9iT1E0OCtXb01tQktOYkREdStNa1R4eGZ3eUYxY1pFSk56WUI5cFpUQWdEcmw2bDVRQ3JzeWl3eTN3Nmk4d2p1WXNrMDFmYlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyMDc1Mzk2CWZpbGU6TGFuZ2Zsb3dfMS41LjBfeDY0X2VuLVVTLm1zaQpuSERXWWtwYWdoMVo2a3Q5WHlOQzd0OTVJTmdwMGExNTgxamVKbFdjY09Ma2o5S1ZlRzRvV1dZZ0hHSkhjQm9uenNHTDcxdDJIMnJXZHV3Q0FZN1VEZz09Cg==",
-      "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/main/releases/v1.5.0/windows/Langflow_1.5.0_x64_en-US.msi---langflow-ai"
+      "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/main/releases/v1.5.0/windows/Langflow_1.5.0_x64_en-US.msi"
     }
   }
 }
