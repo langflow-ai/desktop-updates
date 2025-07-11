@@ -1,6 +1,13 @@
 {
   "versions": [
     {
+      "name": "1.5.1",
+      "description": "Minor release with bug fixes and improvements. Database path migration.",
+      "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.5.1",
+      "date": "2025/07/10",
+      "signature": "N/A"
+    },
+    {
       "name": "1.5.0",
       "description": "Major release with version bump to 1.5.0 and significant improvements.\n\n✨ Features:\n- Added new hooks and utilities for single and bulk file downloads.\n- Integrated @tauri-apps/plugin-dialog for native dialogs.\n- Introduced tray icon support with theme detection and manual update checks.\n- Added new custom components for flexible UI (CustomMcpServerTab, CustomFetchErrorComponent, CustomUpdateAvailableDialog).\n- Added support for local connection checks in Tauri Desktop scenarios.\n\n🔧 Improvements:\n- Refactored modules for better maintainability and readability.\n- Added dark mode support and improved styling.\n- Standardized proxy targets and constants to port 7860.\n- Improved Windows paths, environment setup, and file exports.\n\n🐛 Bug Fixes:\n- Fixed feature flags, environment checks, port conflicts, and redundant logs.\n- Resolved path handling for virtual environments.\n\n🧰 Chores:\n- Synced frontend/backend versions.\n- Updated documentation, logs, and release modal.\n- Cleaned up path management across platforms.",
       "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.5.0",
