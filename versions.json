@@ -1,6 +1,12 @@
 {
   "versions": [
     {
+      "name": "1.5.11",
+      "description": "",
+      "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.5.11",
+      "date": "2025/07/11",
+      "signature": "N/A"
+    },
       "name": "1.5.1",
       "description": "Minor release with bug fixes and improvements. Database path migration.",
       "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.5.1",
