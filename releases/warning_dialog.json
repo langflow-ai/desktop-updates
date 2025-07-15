@@ -1,9 +1,9 @@
 {
   "shouldDisplayWarningDialog": true,
-  "warningDialogMessage": "This is a warning dialog message",
-  "warningDialogTitle": "Warning",
-  "warningDialogType": "warning",
-  "warningDialogIcon": "warning",
+  "warningDialogMessage": "This is a success dialog message",
+  "warningDialogTitle": "Success",
+  "warningDialogType": "success",
+  "warningDialogIcon": "success",
   "warningDialogButtonText": "OK",
   "warningDialogButtonAction": "ok"
 }
