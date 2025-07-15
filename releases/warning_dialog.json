@@ -1,5 +1,5 @@
 {
-  "shouldDisplayWarningDialog": false,
+  "shouldDisplayWarningDialog": true,
   "warningDialogMessage": "This is a warning dialog message",
   "warningDialogTitle": "Warning",
   "warningDialogType": "warning",
