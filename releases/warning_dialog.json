@@ -1,9 +1,9 @@
 {
   "shouldDisplayWarningDialog": true,
-  "warningDialogMessage": "This is a success dialog message",
-  "warningDialogTitle": "Success",
-  "warningDialogType": "success",
-  "warningDialogIcon": "success",
+  "warningDialogMessage": "This version has risk of data loss. Please use the latest version.",
+  "warningDialogTitle": "Warning",
+  "warningDialogType": "warning",
+  "warningDialogIcon": "warning",
   "warningDialogButtonText": "OK",
   "warningDialogButtonAction": "ok"
 }
