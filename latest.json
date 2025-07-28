@@ -5,15 +5,15 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0o2M1loL0pieE9mWTUwMWgyTlUvUzRNZmZnUzNZZ056bTV2ZUhDanVrbExpQ1NXNUp3Unp0RUdXNW1xRzdpaUVmVGdaa25WbnBIMGlWYkdKOGJlV2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNzExODA4CWZpbGU6TGFuZ2Zsb3cuYXBwLnRhci5nego2bmdVTFJXMk1LWXg1YURtUEEzeG1YWWxtMmEyS3pHQ1FkK0NaelU3UEluU3dEZGhjc293QlFZdXU2STlOSHNQRTJsRnZCVUFUMG1CaWovOVFQSW5Cdz09Cg==",
-      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.5.12/macOS/Langflow.app.tar.gz"
+      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.5.13/macOS/Langflow.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0tGY09odk5CeHRGTjhFMlV0aWltcVJwZFE2aW91WGRJczNMZTFKRndIcWsxL3dBOGozdExqZnFyOFB3Nzl2VDNRdUZMcVdRZ2c0Ly83bzRHWmtNOHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNzEyNjEyCWZpbGU6TGFuZ2Zsb3cuYXBwLnRhci5negpNc2FSQ0JTUnNZWmNBUGxwL3FORExUR1JpaVVHNVI0eGNWV3krNEsvbXlNSndmbGRIamtwS3k2ZjFraHpYa2NFNGJyZXAzZzlHRVEvMVU0Y3cvQkpEdz09Cg==",
-      "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/main/releases/v1.5.12/macOS-x86_64/Langflow.app.tar.gz"
+      "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/main/releases/v1.5.13/macOS-x86_64/Langflow.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0NTdFJ2UHQwdWRtZ1hGeE9uZ3E0YkxPeVZTRTIvMVZBY2kyNDFUNDlpdHJJbllLOTRPeFB5ek9aSlg5K2NISmlVRUN1UmNTM2JZdUhpb3VJY0Y4L3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNzEyNDMxCWZpbGU6TGFuZ2Zsb3dfMS41LjEyX3g2NF9lbi1VUy5tc2kKWjEzL3pXblJ5ZlI3TjF4UEFxeE5vcnpmYlFIUDVrMFIrNG5xZFFNQ0xPQ0xCTE0rald4TVB4NGYvTFhqWTBDZkVTU3p6U3ZHOXpwSnVFWklIazFQQ0E9PQo=",
-      "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/main/releases/v1.5.12/windows/Langflow_1.5.12_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR01SOUVOS21xTi9aTXdpUFk4ZStUN1dYdTlQU2tMNlhNR1UydFJNSW9hU3o4TUhmcW8vVUpBaFVabmZ6aVZSREExTldQZW9NQ2tlZE5LY3oyN2VzSlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNzI4NzM2CWZpbGU6TGFuZ2Zsb3dfMS41LjEzX3g2NF9lbi1VUy5tc2kKMmVFb2hUekZVT055WlRaQ1VOME0zUFI3bzM1a1duSG9pM3c0NG5ldjUyNFc5U2NNakkxRU1tRTYzQUk1cmg4M0llQWZwOUJKbmlpbmFla25od21VQVE9PQo=",
+      "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/main/releases/v1.5.13/windows/Langflow_1.5.13_x64_en-US.msi"
     }
   }
 }
