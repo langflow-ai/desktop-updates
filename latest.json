@@ -4,11 +4,11 @@
   "pub_date": "2025-07-28T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0JaakFlb0FhQ2liSkpZOHBtQk9raHF5VU9rWWcxQ052RU5NaDR6QnVwZ1F2enZNVXBFU3p4VThMTWppOWE4TFZoTG9IRHNtRTdpNkhZYlUyRnZsbEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyMjQwNjQ0CWZpbGU6TGFuZ2Zsb3cuYXBwLnRhci5nego1Zy9aZWlwTm1GZHovMWQxWGViR3hJTzZiNDB6STFxdmFrMDVUWXRyY250RUlYSkcwSFZWcTcvSWNtZ0N1ejFtUG4xcG0xRE02NU52UkhYNmdieTVDQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0o2M1loL0pieE9mWTUwMWgyTlUvUzRNZmZnUzNZZ056bTV2ZUhDanVrbExpQ1NXNUp3Unp0RUdXNW1xRzdpaUVmVGdaa25WbnBIMGlWYkdKOGJlV2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNzExODA4CWZpbGU6TGFuZ2Zsb3cuYXBwLnRhci5nego2bmdVTFJXMk1LWXg1YURtUEEzeG1YWWxtMmEyS3pHQ1FkK0NaelU3UEluU3dEZGhjc293QlFZdXU2STlOSHNQRTJsRnZCVUFUMG1CaWovOVFQSW5Cdz09Cg==",
       "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.5.12/macOS/Langflow.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0pFdzhGZ1hVL2ZVbTY5U1VIdVNrYnphTUwvVWpWQUxCbmhrV051RWRHMlU0REpGa1ROVjdwejUrVE1aYkFDWlpZTGsvM2VPUllNZzlQWlpQOXNQM2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyMjQxMjg1CWZpbGU6TGFuZ2Zsb3cuYXBwLnRhci5negpEQUFOUVVhQkdGcmpRZ1Zrc3VmV3V2QzJpMHQvWDdpM2FjUktnRURXWWE3WXBLQmtkSEVOMWpjT09QR0FsQWNvVFJ1Zy9MZnBMeEZ0Q3BJVng5b0pDUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0tGY09odk5CeHRGTjhFMlV0aWltcVJwZFE2aW91WGRJczNMZTFKRndIcWsxL3dBOGozdExqZnFyOFB3Nzl2VDNRdUZMcVdRZ2c0Ly83bzRHWmtNOHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzNzEyNjEyCWZpbGU6TGFuZ2Zsb3cuYXBwLnRhci5negpNc2FSQ0JTUnNZWmNBUGxwL3FORExUR1JpaVVHNVI0eGNWV3krNEsvbXlNSndmbGRIamtwS3k2ZjFraHpYa2NFNGJyZXAzZzlHRVEvMVU0Y3cvQkpEdz09Cg==",
       "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/main/releases/v1.5.12/macOS-x86_64/Langflow.app.tar.gz"
     },
     "windows-x86_64": {
