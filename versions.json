@@ -3,6 +3,13 @@
     {
       "name": "1.5.14",
       "description": "",
+      "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.6.0",
+      "date": "2025/09/30",
+      "signature": "N/A"
+    },
+    {
+      "name": "1.5.14",
+      "description": "",
       "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.5.14",
       "date": "2025/08/19",
       "signature": "N/A"
