@@ -5,15 +5,15 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "",
-      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/qa-releases/v1.6.0/macOS/Langflow.app.tar.gz"
+      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/RELEASE/qa-releases/v1.6.0/macOS/Langflow.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "",
-      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/qa-releases/v1.6.0/macOS-x86_64/Langflow.app.tar.gz"
+      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/RELEASE/qa-releases/v1.6.0/macOS-x86_64/Langflow.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "",
-      "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/main/qa-releases/v1.6.0/windows/Langflow_1.6.0_x64_en-US.msi"
+      "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/RELEASE/qa-releases/v1.6.0/windows/Langflow_1.6.0_x64_en-US.msi"
     }
   }
 }

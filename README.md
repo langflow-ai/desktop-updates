@@ -74,11 +74,11 @@ The Langflow desktop application automatically checks this repository for update
   "platforms": {
     "darwin-aarch64": {
       "signature": "<base64-signature>",
-      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/main/releases/v1.4.21/macOS/Langflow.app.tar.gz"
+      "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/RELEASE/releases/v1.4.21/macOS/Langflow.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "<base64-signature>",
-      "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/main/releases/v1.4.21/windows/Langflow_1.4.21_x64_en-US.msi"
+      "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/RELEASE/releases/v1.4.21/windows/Langflow_1.4.21_x64_en-US.msi"
     }
   }
 }
