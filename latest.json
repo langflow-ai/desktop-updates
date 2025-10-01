@@ -12,7 +12,7 @@
       "url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/refs/heads/main/releases/v1.6.0/macOS-x86_64/Langflow.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "",
+      "signature": "windows_signature_placeholder",
       "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/main/releases/v1.6.0/windows/Langflow_1.6.0_x64_en-US.msi"
     }
   }
