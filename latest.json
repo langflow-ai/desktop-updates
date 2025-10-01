@@ -13,7 +13,7 @@
     },
     "windows-x86_64": {
       "signature": "",
-      "url": ""
+      "url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/main/releases/v1.6.0/windows/Langflow_1.6.0_x64_en-US.msi"
     }
   }
 }
