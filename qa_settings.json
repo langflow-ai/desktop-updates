@@ -10,7 +10,7 @@
     "warningDialogButtonAction": "ok"
   },
   "macosSettings": {
-    "shouldDisplayStartupDialog": false,
+    "shouldDisplayStartupDialog": true,
     "warningDialogMessage": "MACOS: This version has risk of data loss. Please use the latest version.",
     "warningDialogTitle": "Warning",
     "warningDialogType": "warning",
