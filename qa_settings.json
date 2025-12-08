@@ -1,5 +1,5 @@
 {
-  "updateButton": false,
+  "updateButton": true,
   "windowsSettings": {
     "shouldDisplayStartupDialog": false,
     "warningDialogMessage": "WINDOWS: This version has risk of data loss. Please use the latest version.",
