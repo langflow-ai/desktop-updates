@@ -1,19 +1,19 @@
 {
-	"version": "1.7.1",
+	"version": "1.7.2",
 	"notes": "Update notes",
-	"pub_date": "2025-12-19T12:00:00Z",
+	"pub_date": "2025-01-14T12:00:00Z",
 	"platforms": {
 		"darwin-aarch64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR05OK1lOTTdCQzl4TWNjRFQvNXJHaFZwRHltMXRJZVd5R2dDSHdzY3dlMlF4ZFhlbjZHRDRLank3WHZJZWRrbVFtU3pFQVppUUgrZ3h4SThwY2YxMUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MjMyNTk5CWZpbGU6TGFuZ2Zsb3cgLmFwcC50YXIuZ3oKNVNOTmNicVRGUnB3NkNSck1UTlBhaGdPR3lLbXNTNW1DUWcyU3BuRm9kQVd4SGtPREFNVTY1cnlKcjAxcDg2TUt0aVczL2VDc0NYL3ZnNUZoblNLQ2c9PQo=",
-			"url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/RELEASE/qa-releases/v1.7.1/macOS/Langflow.app.tar.gz"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0hCUWdGanJzT2xQUTd6ZkQ2L2tlalpzOE5aWW50Vjl4ZWJaQWR2Mlh6VlpVcVltejJvK3g4MDg1S09ZU3Z0L2crVGpHSkxFUkFpYWZYTGpKeGF5Mnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MzA3NDEwCWZpbGU6TGFuZ2Zsb3cgLmFwcC50YXIuZ3oKT3dxTVlSeGlUaWNOcXQxNk1lWHNUSWVLdzBqZ1B6RnNHbGZpY1BILzByT3R3S3hyNjRMLzRuZWxyYy81dnpJSnBrcXY4aURuZWQ3UTNpaDhEdmYrQkE9PQo=",
+			"url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/RELEASE/qa-releases/v1.7.2/macOS/Langflow.app.tar.gz"
 		},
 		"darwin-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0pCbU9DNmgxY21xYVY1cU90Znk2c2dhOHU3Z3VOQTQ4bTVsUUhRUGlnYUVvdCsySkdnU2YxQUlIK3Y5U2d5eXdpTHhTVW9JMUZhSmVtNjJBRHJ6b1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MjMyNjY1CWZpbGU6TGFuZ2Zsb3cgLmFwcC50YXIuZ3oKc0RsQnQwYy9QNDZUcnhoRUZ0Tm0wRUVadlNOMzhxUkFHbWhOZkNNTit3WjAyL204RFpuK2NISFhjbEo2ZGZNNHZocnh2UjloVldQS3N0cTUzckJvQ0E9PQo=",
-			"url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/refs/heads/RELEASE/qa-releases/v1.7.1/macOS-x86_64/Langflow.app.tar.gz"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0hyckhIeFBDcWZkZzhRdHFBY29PYWNIcnd4dU9uNkVDY1ZKbGtaVVBPYjJJTFVwVGhWMGpFckNuZFF5M21qUEdOKzhJeldNamRPWjZYSzZZWDVXa1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MzA3OTU4CWZpbGU6TGFuZ2Zsb3cgLmFwcC50YXIuZ3oKaWJ1RnVCVjIwR3N3a1puR2xCTzZaRzdiYjFsVXlaVjcveEZTeXVnZGFtRVExaGZ1YzB4OEV6d1cvdlluOVlOQlkxa3lkL2kvYk5PQXNzZXJuekdCREE9PQo=",
+			"url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/refs/heads/RELEASE/qa-releases/v1.7.2/macOS-x86_64/Langflow.app.tar.gz"
 		},
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR09zSXl6WnVtclNseVpkem5ZVHozalI0M0FxaXA0MU12NEI0a0ZnUExCR1BIVmU3ZHNkVEFzS09hTnFoYzI5Vkd4ci82bDlEZlRXY3BFMVJ5QkRhT1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MjA1MDAzCWZpbGU6TGFuZ2Zsb3cgXzEuNy4xX3g2NF9lbi1VUy5tc2kKbU5wRWwwSjdPNTFobEdicnJ1T3NHVmJuMkg3U3VsYmFnUS9aR3hNSG9KcytVbis4RHNkUkFIeURKcVJBdzMzZGg1dWxRMC9TOU9jbVdQZ1hZZE40RFE9PQo=",
-			"url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/RELEASE/qa-releases/v1.7.1/windows/Langflow_1.7.1_x64_en-US.msi"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR01aa1ZOVXFIOHkxaTA4aTg1b0RaSFNaTHhMSFVBbDl2NGdQeWpnL09jcGJDbzJiNnFaYnVUbUtLWTBzUS9GN3kwT25vdXhMTnFHTmZqSWpYU0lVb3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MzE0NDA3CWZpbGU6TGFuZ2Zsb3cgXzEuNy4yX3g2NF9lbi1VUy5tc2kKNW9rSlBhN0kvUjNKVWJnK3ExdlNQYVdQS1ViZUdRTmx5RUUxQzkwRWtLMUEvOFdHUWdmOG1IMFNGNGxNUjM4bkJnUENaa0pNemw4a1hVY0hrNHkwQXc9PQo=",
+			"url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/RELEASE/qa-releases/v1.7.2/windows/Langflow_1.7.2_x64_en-US.msi"
 		}
 	}
 }
