@@ -1,10 +1,10 @@
 {
-	"version": "1.9.2",
+	"version": "1.11.0",
 	"notes": "Update notes",
 	"pub_date": "2025-05-04T12:00:00Z",
 	"platforms": {
 		"darwin-aarch64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR01tMDlNRzg4ejJSTGYxTmJIZllQMVpjaGp1citYTkhrSk43SmlUTllXREo3SGw3SXlzRHVjYjdCclFyTTRQTDlFeGJac3hOazlQeVBUMk5wQS80RndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTEyMTA2CWZpbGU6TGFuZ2Zsb3cgLmFwcC50YXIuZ3oKZjBrUWhrRTZEU0w2YTh5WWYwNCt5K2h1YlpoUmJodmtLU1dCYmNDVkhyWW9ReWlsd2k3QzNTb2l6S3lmWGh6K0pRMVdNa0JlVDNWRWVDT21NZWJXQmc9PQo=",
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0xNNnJ5R1JRUnNxa1lPZWR0SElnYlBjK2VVU1dITU0yMWN3dlFJYUNjSDFlMDgzbFh3M1NjcFl5NlJPVEtkbDFWSFhDM1RwZVlUclNRZ3lLK2hmd0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODU0OTk3CWZpbGU6TGFuZ2Zsb3cgLmFwcC50YXIuZ3oKRzd6TzJValhpb21aRWFJbzE2QVdiZWlreUwxM2hzSFhKZjRKM29pTGFqMEpoSU41cHB5b0wvZlY2YXg0ak5LR2dVN3JVVk9WMnZuNFlkTy9OaThwQVE9PQo=",
 			"url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/RELEASE/qa-releases/v1.11.0/macOS/Langflow.app.tar.gz"
 		},
 		"darwin-x86_64": {
