@@ -12,7 +12,7 @@
 			"url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/refs/heads/RELEASE/qa-releases/v1.10.0/macOS-x86_64/Langflow.app.tar.gz"
 		},
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR1B0bHAyRUJRNDl2OUVvVTVFS3RJbkdOencvRUtSMkVOS0lsWnpLSVRGSFFTNXh2WjRPTEhWQzVXclB2R1lUd3V0QTl6Q0U2VW5HM05nc1B2L1FEU1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNjc4MjAzCWZpbGU6TGFuZ2Zsb3cgXzEuMTAuMF94NjRfZW4tVVMubXNpCk1sY2FwdENESDl6RWRIa054L0dveit2bEdPUHZIUnA3VXZaNHowS2FFRmhvWDE5aWRWaGRJR1R4ZHVaTjN6a09PUE1lUzhkc3BOOURnZ1h3SmVoYUJBPT0K",
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0VFVDB1SGNJNHc5YlJuaUhEVSsxanRUZHNLVXRiYkdCcUtacmVGVmhYNllrZC9MTzVEbHdZMDdzdUR1RXo1TWZiNWUvRW1GVUdYaHdPcmpFb2xUbVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTQxNTU2CWZpbGU6TGFuZ2Zsb3cgXzEuMTAuMF94NjRfZW4tVVMubXNpClkyMUdsS0ltdHA2S2RxVHg2RVVjZ1BlT29kbFhTTmtnZ045Rks3VWxnREdhdExhMHo5NEFGVFc4RnBtanpLNTVldEp1cmt4L0w5VEVyTlBPVHYxQkRnPT0K",
 			"url": "https://media.githubusercontent.com/media/langflow-ai/desktop-updates/RELEASE/qa-releases/v1.10.0/windows/Langflow_1.10.0_x64_en-US.msi"
 		}
 	}
