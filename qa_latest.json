@@ -4,7 +4,7 @@
 	"pub_date": "2025-05-04T12:00:00Z",
 	"platforms": {
 		"darwin-aarch64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR01nZ1lSV1hJbWRLRVJXT0xiTEZnNE1jaEE2OExCQUtXZjZvc0JpaTJUYmQrL1F4VW5teEx0ZkxiV1kwYStadURDcFV4M0wyc1RjOXBBTHNRWmxSaWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDA2MTIzCWZpbGU6TGFuZ2Zsb3cgLmFwcC50YXIuZ3oKQjdYcWRwSHQ4aXZsVzJnVEMrYmozUzF5UWJkcTdxd1JIV0RuenNjR2xiYllHcmNadGU0ODJrTzBlUFo5NmxQeVExUWpRWWFDSG1IcFZhZ2hHck9QRFE9PQo=",
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeXlMM3JBMTEyR0RYK3dLUGVvTjFGODV2Ukl1UWhXaFFyQWIrdytWRDFzVUtDUjB6RU9QaUhJdGd0bVZXazAxdUtzcnI4QUQzY09hK3dNcnBzUVpadFpsSXovM1RBeVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDA4NDUwCWZpbGU6TGFuZ2Zsb3cgLmFwcC50YXIuZ3oKTHMvRDNLTnZOOFBEZ0NkYm1hY3dCbXJrYk5hK2NDU3RWbnlOTHdMQzJUZ3NySWRDMkl5TXIyRytnRndudzc1aEc2VTg2ZUk5SmlkYjJrb3llYWRrQnc9PQo=",
 			"url": "https://raw.githubusercontent.com/langflow-ai/desktop-updates/RELEASE/qa-releases/v1.10.0/macOS/Langflow.app.tar.gz"
 		},
 		"darwin-x86_64": {
