@@ -1,6 +1,41 @@
 {
   "versions": [
     {
+      "name": "1.10.0",
+      "description": "",
+      "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.10.0",
+      "date": "2026/06/25",
+      "signature": "N/A"
+    },
+    {
+      "name": "1.9.2",
+      "description": "",
+      "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.9.2",
+      "date": "2026/05/04",
+      "signature": "N/A"
+    },
+    {
+      "name": "1.9.1",
+      "description": "",
+      "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.9.1",
+      "date": "2026/04/28",
+      "signature": "N/A"
+    },
+    {
+      "name": "1.9.0",
+      "description": "",
+      "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.9.0",
+      "date": "2026/04/24",
+      "signature": "N/A"
+    },
+    {
+      "name": "1.8.5",
+      "description": "",
+      "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.8.5",
+      "date": "2026/04/01",
+      "signature": "N/A"
+    },
+    {
       "name": "1.8.4",
       "description": "",
       "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.8.4",
