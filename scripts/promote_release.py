@@ -17,6 +17,20 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
+# Binaries tracked by Git LFS (see .gitattributes). raw.githubusercontent.com
+# serves the LFS *pointer* for these, not the payload, so the updater must use
+# the media host instead.
+LFS_SUFFIXES = (".msi", ".tar.gz")
+RAW_HOST = "https://raw.githubusercontent.com/"
+LFS_HOST = "https://media.githubusercontent.com/media/"
+
+
+def to_download_url(url: str) -> str:
+    """Point LFS-tracked assets at the media host; leave everything else alone."""
+    if url.endswith(LFS_SUFFIXES) and url.startswith(RAW_HOST):
+        return LFS_HOST + url[len(RAW_HOST) :]
+    return url
+
 
 def fail(msg: str) -> None:
     print(f"❌ {msg}")
@@ -63,7 +77,7 @@ def main() -> None:
     for platform, info in qa_latest["platforms"].items():
         latest["platforms"][platform] = {
             "signature": info["signature"],
-            "url": info["url"].replace("/qa-releases/", "/releases/"),
+            "url": to_download_url(info["url"].replace("/qa-releases/", "/releases/")),
         }
     latest_path.write_text(json.dumps(latest, indent="\t") + "\n")
     print(f"✅ latest.json atualizado (version={version}, pub_date={now})")
