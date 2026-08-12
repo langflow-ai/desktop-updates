@@ -1,1 +1,4 @@
 .DS_Store
+
+# Staging area for `make release_X` — the binaries land in releases/ instead.
+prod-release-binaries/
