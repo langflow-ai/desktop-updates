@@ -1,6 +1,13 @@
 {
   "versions": [
     {
+      "name": "1.12.2",
+      "description": "",
+      "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.12.2",
+      "date": "2026/09/16",
+      "signature": "N/A"
+    },
+    {
       "name": "1.12.0",
       "description": "",
       "url": "https://github.com/langflow-ai/langflow-desktop/releases/tag/1.12.0",
